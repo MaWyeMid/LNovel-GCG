@@ -6,6 +6,7 @@
 ### 发布平台
 目前为止（2025.1.24），《少女们的社团：格内茨克》在以下平台有发布：  
 **Github**：[https://github.com/MaWyeMid/LNovel-GCG](https://github.com/MaWyeMid/LNovel-GCG)  
+**Pixiv**：[https://www.pixiv.net/novel/series/13158338](https://www.pixiv.net/novel/series/13158338)  
 **知乎**：[https://www.zhihu.com/people/qia-mo-si-te/posts](https://www.zhihu.com/people/qia-mo-si-te/posts)  
 **B站**：[https://www.bilibili.com/read/readlist/rl910058](https://www.bilibili.com/read/readlist/rl910058)  
 **番茄**：[https://fanqienovel.com/page/7462719876486941758](https://fanqienovel.com/page/7462719876486941758)  
