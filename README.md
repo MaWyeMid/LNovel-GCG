@@ -24,5 +24,5 @@
 [第一章 - 离别环圆](/Chapter01.md)  
 [第二章 - 格内茨克·格内茨堪](/Chapter02.md)  
 [第三章 - 初次见面](/Chapter03.md)  
-[第四章 - 格内茨克的终结](/Chapter04.md)
+[第四章 - 格内茨克的终结](/Chapter04.md)  
 [第五章 - 晚宴](/Chapter05.md)
